@@ -1,0 +1,3 @@
+youtube-transcript-api
+deepmultilingualpunctuation
+google-genai
