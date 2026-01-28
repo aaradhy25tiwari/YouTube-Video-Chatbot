@@ -1,3 +1,4 @@
 youtube-transcript-api
 deepmultilingualpunctuation
 google-genai
+python-dotenv
