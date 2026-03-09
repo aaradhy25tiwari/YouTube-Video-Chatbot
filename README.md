@@ -1,4 +1,7 @@
 # YouTube-Video-Chatbot
+This project goes through the transcript of any english or hindi YouTube video, summarizes it and works as a RAG chatbot to answer user queries.
+
+---
 ## Requirements for this project are:
 + Python 3.10 and above
 + youtube-transcript-api
